@@ -148,7 +148,7 @@ function DashboardContent() {
         <div className="bg-white border border-gray-100 rounded-2xl p-6 mb-6">
           <h2 className="font-bold text-gray-900 mb-1">Get the iOS app</h2>
           <p className="text-sm text-gray-500 mb-4">Track your documents and subscriptions on the go. Your account syncs automatically.</p>
-          
+          <a
             href="https://apps.apple.com"
             className="flex items-center justify-center gap-2 bg-gray-900 hover:bg-gray-800 text-white font-semibold py-3 rounded-xl text-sm transition-colors"
           >
