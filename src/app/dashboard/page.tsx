@@ -161,8 +161,8 @@ function DashboardContent() {
         <div className="bg-white border border-gray-100 rounded-2xl p-6">
           <h2 className="font-bold text-gray-900 mb-1">Need help?</h2>
           <p className="text-sm text-gray-500 mb-4">Get in touch and we'll get back to you as soon as possible.</p>
-          <a href="mailto:hello@expiro.app" className="text-sm text-red-500 font-semibold hover:text-red-600 transition-colors">
-            hello@expiro.app
+          <a href="mailto:hello@renewio.app" className="text-sm text-red-500 font-semibold hover:text-red-600 transition-colors">
+            hello@renewio.app
           </a>
         </div>
 
