@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Expiro — Never miss a renewal in the UAE",
-  description: "Track your visa, Emirates ID, passport and subscriptions. Built for UAE expats.",
+  title: "Renewio — Never miss a renewal in the UAE",
+  description: "Track your visa, Emirates ID, passport, subscriptions, and your whole family's documents. Built for UAE expats.",
 };
 
 export default function RootLayout({
