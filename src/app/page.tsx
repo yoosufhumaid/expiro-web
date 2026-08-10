@@ -335,7 +335,7 @@ export default function Home() {
       </section>
 
       {/* Final CTA */}
-      <section className="bg-gray-900 py-20 text-center px-6">
+      <section className="bg-black py-20 text-center px-6">
         <h2 className="text-4xl font-extrabold text-white tracking-tight mb-3">Stop paying fines.<br /><span className="text-red-500">Start using Renewio.</span></h2>
         <p className="text-gray-400 mb-10">Free to start. Takes 2 minutes to set up. Built for every expat family in the UAE.</p>
         <div className="flex gap-3 justify-center flex-wrap">
@@ -349,7 +349,7 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-900 border-t border-gray-800 px-6 py-6 flex items-center justify-between flex-wrap gap-4">
+      <footer className="bg-black border-t border-gray-800 px-6 py-6 flex items-center justify-between flex-wrap gap-4">
         <Logo dark />
         <div className="flex gap-5">
           <a href="https://expiro-privacy.vercel.app/privacy.html" className="text-xs text-gray-500 hover:text-white transition-colors">Privacy</a>
