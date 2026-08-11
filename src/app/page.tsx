@@ -354,7 +354,7 @@ export default function Home() {
         <div className="flex gap-5">
           <a href="https://expiro-privacy.vercel.app/privacy.html" className="text-xs text-gray-500 hover:text-white transition-colors">Privacy</a>
           <a href="#" className="text-xs text-gray-500 hover:text-white transition-colors">Terms</a>
-          <a href="mailto:hello@renewio.app" className="text-xs text-gray-500 hover:text-white transition-colors">Contact</a>
+          <a href="mailto:hello.renewio@gmail.com" className="text-xs text-gray-500 hover:text-white transition-colors">Contact</a>
         </div>
       </footer>
 
